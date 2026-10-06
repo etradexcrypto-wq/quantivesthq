@@ -593,7 +593,7 @@ export default function CryptoFutureSection() {
               Explore digital assets with a calmer framework, clearer context,
               and a long-term view of what comes next.
             </p>
-            <a href="https://app.quantivesthq.com" style={styles.button}>
+            <a href="https://app.quantivesthq.org" style={styles.button}>
               Access portfolio <ArrowUpRight size={16} />
             </a>
           </div>
@@ -639,7 +639,7 @@ export default function CryptoFutureSection() {
 
           <div style={styles.buttonsRow}>
             <a
-              href="https://app.quantivesthq.com/login-register"
+              href="https://app.quantivesthq.org/login-register"
               style={styles.primaryButton}
             >
               <div>Start Trading</div>
