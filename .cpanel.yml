@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/bfpbzmambn/quantivesthq.org/
+    - export DEPLOYPATH=/home/kepelvrjuc/quantivesthq.org/
     - /bin/cp -R dist/. $DEPLOYPATH
